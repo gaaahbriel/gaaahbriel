@@ -1,7 +1,8 @@
 ## 👨‍💻Gabriel Bonfim
 
 💻 **'Desenvolvedor Web'**
-📍 Brasil 
+
+Me chamo Gabriel Alves Bonfim, tenho 29 anos e sou natural de Teixeira de Freitas - Bahia. Profissional de Tecnologia da Informação com formação em Ciência da Computação e pós-graduação em Desenvolvimento de Software, com foco em desenvolvimento e ensino na área de programação. Sou desenvolvedor web, aplicando boas práticas, resolução de problemas e construção de soluções eficientes, sempre buscando qualidade e evolução técnica. Também possuo experiência como professor técnico em informática, desenvolvendo habilidades de comunicação, didática e mentoria, contribuindo para a formação de novos profissionais de tecnologia e fortalecendo o trabalho em equipe.
 
 ## 🚀 Tecnologias
 
