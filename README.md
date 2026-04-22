@@ -81,7 +81,7 @@ Me chamo Gabriel Alves Bonfim, tenho 29 anos e sou natural de Teixeira de Freita
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaahbriel&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaahbriel&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 
 </p>
